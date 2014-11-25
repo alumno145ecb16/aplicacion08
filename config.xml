@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Dodulo Especialidad Programacion CBTis 16</name>
+    <name>Revolución Mexicana</name>
 
     <description>
-        Mi primera aplicación. ¡Yeih, soy todo un programador!
+        Revolución Mexicana
     </description>
 
     <preference name="phonegap-version" value="3.1.0" />
